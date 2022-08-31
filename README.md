@@ -3,7 +3,7 @@ Give three sides of triangle to find the area of it.
 
 ---
 
-Link:
+Link: https://sbackcend.github.io/area_of_a_triangle_php/
 
 ---
 
